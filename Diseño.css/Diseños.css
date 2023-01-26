@@ -1,0 +1,498 @@
+body{
+    background-color: #008B8B;
+    padding: 3px;
+    margin: 3px;
+}
+.nombres{
+width: 100%;
+background-color: #00CED1;
+height: 300px;
+}
+
+.nombres .Contenido{
+width: 50%;
+height: 50%;
+position: absolute;
+left: 15%;
+}
+
+.nombres .p-1{
+color: azure;
+font-family: 'Roboto Condensed', sans-serif;
+font-weight: bolder;
+font-size: 65px;
+}
+
+.p-2{
+    color: azure;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+    }
+
+.Informacion {
+width: 90%;
+height: auto;
+background-color:darkslategrey;
+margin: 5% auto;
+padding: 10px;
+font-family: 'Roboto Condensed', sans-serif;
+font-weight: bolder;
+}
+
+.Informacion .InfoP {
+    color: azure;
+    font-size: xx-large;
+    background-color:darkslategrey;
+    margin: 5% auto;
+    border-bottom: aquamarine 3px solid;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+    }
+.Informacion .InfoN {
+        color: azure;
+        font-size: xx-large;
+        background-color:darkslategrey;
+        margin: 3% auto;
+        text-align: left;
+        font-weight: bolder;
+        border-bottom: aquamarine 2px dashed;
+        font-family: 'Roboto Condensed', sans-serif;
+        }
+        .Informacion .InfoA {
+            color: azure;
+            font-size: large;
+            background-color:darkslategrey;
+            margin: 1% auto;
+            text-align: left;
+            font-family: 'Roboto Condensed', sans-serif;
+            font-weight: bolder;
+            }
+            .Informacion .InfoD {
+                color: azure;
+                font-size: large;
+                background-color:darkslategrey;
+                margin: 1% auto;
+                text-align: left;
+                font-family: 'Roboto Condensed', sans-serif;
+                font-weight: bolder;
+                }
+                .Informacion .InfoE {
+                    color: azure;
+                    font-size: large;
+                    background-color:darkslategrey;
+                    margin: 1% auto;
+                    text-align: left;
+                    font-family: 'Roboto Condensed', sans-serif;
+                    font-weight: bolder;
+                    }
+                    .Informacion .InfoI {
+                        color: azure;
+                        font-size: large;
+                        background-color:darkslategrey;
+                        margin: 3% auto;
+                        text-align: left;
+                        font-weight: bolder;
+                        border-bottom: aquamarine 2px dashed;
+                        font-family: 'Roboto Condensed', sans-serif;
+                        }
+                        .Informacion .InfoC {
+                            color: azure;
+                            font-size: large;
+                            background-color:darkslategrey;
+                            margin: 3% auto;
+                            text-align: left;
+                            font-weight: bolder;
+                            border-bottom: aquamarine 2px dashed;
+                            font-family: 'Roboto Condensed', sans-serif;}
+                            .Informacion .InfoS {
+                                color: azure;
+                                font-size: large;
+                                background-color:darkslategrey;
+                                margin: 3% auto;
+                                text-align: left;
+                                font-weight: bolder;
+                                border-bottom: aquamarine 2px dashed;
+                                font-family: 'Roboto Condensed', sans-serif;}
+                                .Informacion .InfoF {
+                                    color: azure;
+                                    font-size: large;
+                                    background-color:darkslategrey;
+                                    margin: 1% auto;
+                                    text-align: left;
+                                    font-family: 'Roboto Condensed', sans-serif;
+                                    font-weight: bolder;
+                                    }
+                                
+
+.SobreMi{                  
+width: 90%;
+height: auto;
+background-color:darkslategrey;
+margin: 5% auto;
+padding: 10px;
+font-family: 'Roboto Condensed', sans-serif;
+font-weight: bolder;
+}
+  .p-3{
+    color: azure;
+    font-size: xx-large;
+    background-color:darkslategrey;
+    margin: 3% auto;
+    border-bottom: aquamarine 3px solid;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+  }
+  .l-1{
+                    color: azure;
+                    font-size: large;
+                    background-color:darkslategrey;
+                    margin: 1% auto;
+                    text-align: left;
+                    font-family: 'Roboto Condensed', sans-serif;
+                    font-weight: bolder;
+                 }
+.h-1{
+    color: azure;
+    font-size: xx-large;
+    background-color:darkslategrey;
+    margin: 1% auto;
+    border-bottom: aquamarine 3px solid;
+    text-align: center;
+    width: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+   }
+   .contenedor{
+    color: azure;
+    width: 30%;
+    border: aquamarine 3px solid;
+    position: relative;
+    right: 76px;
+    left: 500px;
+    bottom: 87px;
+    top: -170px;
+    padding: 4px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+   }
+   .l-2 { 
+    color: azure;
+   font-size: large;
+   background-color:darkslategrey;
+   margin: 1% auto;
+   text-align: left;
+   font-weight: bolder;
+   font-family: 'Roboto Condensed', sans-serif;
+   }
+   .l-3 { 
+    color: azure;
+   font-size: large;
+   background-color:darkslategrey;
+   margin: 1% auto;
+   text-align: left;
+   font-weight: bolder;
+   font-family: 'Roboto Condensed', sans-serif;
+   }
+   .l-4 { 
+    color: azure;
+   font-size: large;
+   background-color:darkslategrey;
+   margin: 1% auto;
+   text-align: left;
+   font-weight: bolder;
+   font-family: 'Roboto Condensed', sans-serif;
+   }
+   .Idiomas {                  
+    width: 90%;
+    height: auto;
+    background-color:darkslategrey;
+    margin: 5% auto;
+    padding: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+   }
+   .p-4{
+    color: azure;
+    font-size: xx-large;
+    background-color:darkslategrey;
+    margin: 3% auto;
+    border-bottom: aquamarine 3px solid;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+   }
+   .Idiomas span {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: #003537;
+    color: azure;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+   }
+   img {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    right: -180px;
+    top: -120px;
+    border-radius: 142px;
+    box-shadow: 5px 5px aquamarine;
+   }
+
+@media only screen and  (max-width: 1000px) {
+    body{
+        background-color: #008B8B;
+        padding: 3px;
+        margin: 3px;
+    }
+    .nombres{
+    width: 100%;
+    background-color: #00CED1;
+    height: 300px;
+    }
+    
+    .nombres .Contenido{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 15%;
+    }
+    
+    .nombres .p-1{
+    color: azure;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+    font-size: 65px;
+    }
+    
+    .p-2{
+        color: azure;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: bolder;
+        font-size: 24px;
+        top: -24px;
+        position: relative;
+        right: 40px;
+        }
+    
+    .Informacion {
+    width: 90%;
+    height: auto;
+    background-color:darkslategrey;
+    margin: 5% auto;
+    padding: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+    }
+    
+    .Informacion .InfoP {
+        color: azure;
+        font-size: xx-large;
+        background-color:darkslategrey;
+        margin: 5% auto;
+        border-bottom: aquamarine 3px solid;
+        text-align: center;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: bolder;
+        }
+    .Informacion .InfoN {
+            color: azure;
+            font-size: xx-large;
+            background-color:darkslategrey;
+            margin: 3% auto;
+            text-align: left;
+            font-weight: bolder;
+            border-bottom: aquamarine 2px dashed;
+            font-family: 'Roboto Condensed', sans-serif;
+            }
+            .Informacion .InfoA {
+                color: azure;
+                font-size: large;
+                background-color:darkslategrey;
+                margin: 1% auto;
+                text-align: left;
+                font-family: 'Roboto Condensed', sans-serif;
+                font-weight: bolder;
+                }
+                .Informacion .InfoD {
+                    color: azure;
+                    font-size: large;
+                    background-color:darkslategrey;
+                    margin: 1% auto;
+                    text-align: left;
+                    font-family: 'Roboto Condensed', sans-serif;
+                    font-weight: bolder;
+                    }
+                    .Informacion .InfoE {
+                        color: azure;
+                        font-size: large;
+                        background-color:darkslategrey;
+                        margin: 1% auto;
+                        text-align: left;
+                        font-family: 'Roboto Condensed', sans-serif;
+                        font-weight: bolder;
+                        }
+                        .Informacion .InfoI {
+                            color: azure;
+                            font-size: large;
+                            background-color:darkslategrey;
+                            margin: 3% auto;
+                            text-align: left;
+                            font-weight: bolder;
+                            border-bottom: aquamarine 2px dashed;
+                            font-family: 'Roboto Condensed', sans-serif;
+                            }
+                            .Informacion .InfoC {
+                                color: azure;
+                                font-size: large;
+                                background-color:darkslategrey;
+                                margin: 3% auto;
+                                text-align: left;
+                                font-weight: bolder;
+                                border-bottom: aquamarine 2px dashed;
+                                font-family: 'Roboto Condensed', sans-serif;}
+                                .Informacion .InfoS {
+                                    color: azure;
+                                    font-size: large;
+                                    background-color:darkslategrey;
+                                    margin: 3% auto;
+                                    text-align: left;
+                                    font-weight: bolder;
+                                    border-bottom: aquamarine 2px dashed;
+                                    font-family: 'Roboto Condensed', sans-serif;}
+                                    .Informacion .InfoF {
+                                        color: azure;
+                                        font-size: large;
+                                        background-color:darkslategrey;
+                                        margin: 1% auto;
+                                        text-align: left;
+                                        font-family: 'Roboto Condensed', sans-serif;
+                                        font-weight: bolder;
+                                        }
+                                    
+    
+    .SobreMi{                  
+    width: 90%;
+    height: auto;
+    background-color:darkslategrey;
+    margin: 5% auto;
+    padding: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+    }
+      .p-3{
+        color: azure;
+        font-size: xx-large;
+        background-color:darkslategrey;
+        margin: 3% auto;
+        border-bottom: aquamarine 3px solid;
+        text-align: center;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: bolder;
+      }
+      .l-1{
+                        color: azure;
+                        font-size: large;
+                        background-color:darkslategrey;
+                        margin: 1% auto;
+                        text-align: left;
+                        font-family: 'Roboto Condensed', sans-serif;
+                        font-weight: bolder;
+                     }
+    .h-1{
+        color: azure;
+        font-size: xx-large;
+        background-color:darkslategrey;
+        margin: 1% auto;
+        border-bottom: aquamarine 3px solid;
+        text-align: center;
+        width: auto;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: bolder;
+       }
+       .contenedor{
+        color: azure;
+        width: 86%;
+        border: aquamarine 3px solid;
+        position: relative;
+        right: 50px;
+        left: 9px;
+        bottom: 52px;
+        top: 4px;
+        padding: 4px;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: bolder;
+       }
+       .l-2 { 
+        color: azure;
+       font-size: large;
+       background-color:darkslategrey;
+       margin: 1% auto;
+       text-align: left;
+       font-weight: bolder;
+       font-family: 'Roboto Condensed', sans-serif;
+       }
+       .l-3 { 
+        color: azure;
+       font-size: large;
+       background-color:darkslategrey;
+       margin: 1% auto;
+       text-align: left;
+       font-weight: bolder;
+       font-family: 'Roboto Condensed', sans-serif;
+       }
+       .l-4 { 
+        color: azure;
+       font-size: large;
+       background-color:darkslategrey;
+       margin: 1% auto;
+       text-align: left;
+       font-weight: bolder;
+       font-family: 'Roboto Condensed', sans-serif;
+       }
+       .Idiomas {                  
+        width: 90%;
+        height: auto;
+        background-color:darkslategrey;
+        margin: 5% auto;
+        padding: 10px;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: bolder;
+       }
+       .p-4{
+        color: azure;
+        font-size: xx-large;
+        background-color:darkslategrey;
+        margin: 3% auto;
+        border-bottom: aquamarine 3px solid;
+        text-align: center;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: bolder;
+       }
+       .Idiomas span {
+        display: inline-block;
+        width: auto;
+        height: auto;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color: #003537;
+        color: azure;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: bolder;
+       }
+       img {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        right: -83px;
+        top: -55px;
+        border-radius: 142px;
+        box-shadow: 5px 5px aquamarine;
+       }
+    }    
